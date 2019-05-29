@@ -1,2 +1,13 @@
-# BJUT-lgn
-实现网关自动登录
+# 北京工业大学网关自动登录
+## 项目
+利用shell脚本,实现北工大网关自动登录
+## 开发环境
+ubuntu 16.04
+## 主要功能
+1.ipv4登录 
+2.ipv6登录
+3.登出
+用户可根据不同需求,执行脚本的不同命令,即可实现对应功能.(例如执行lgn 4即可实现ipv4登录 )
+## 截图
+![avatar][base64str]
+[base64str]:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbQAAADQCAIAAADgRAPpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAgAElEQVR4nOydd3xUVdrHn3Pr3Oklk97oASUhhiIgIkWU1VUsuChS1NVVifBi1xU7FsC2rgXXAq4VXUTBsoqISw+ETgRCSEJIJtP73JnbzvtHSAgxZRAU0Pv98AnMzD1nToZ7fvOUc56Ddu7cKcuyKIpNP5sQBKFfQR9Gw4GKiorKHxIKADDGrX+2+YeKiorKHxCqjTJCsyyq4qiiovJHph3LEVrp46kdnIqKisqpgmr66+f6OG70mFM4LBUVFZVTC9FiHv5cH1VUVFT+sFCHDx+WZVmSpKafTdlqSZJO9cBUVFRUTiVETFBiCTmWkHlB4QWZF+S4oPAJGQAAGc2jS3uN7k4cV5fIYLrgtp4XHGerkw6iB+cVPJ6n1xxnq5LcPg/nGo6vlYqKyu8Oole3nF7dc3t2y+mel9U9L7tbblZeTkZeTgYAAGE2jbgyo7cNddCWLnxg6D+/KBqZecwFhMU8cmJmQUetfjOYwdm5f7GyVPuvIpu9
